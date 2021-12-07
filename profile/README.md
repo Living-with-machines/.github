@@ -5,9 +5,20 @@ This is the GitHub organization for the [Living with Machines](https://livingwit
 
 ## Contents
 
-- Code supporting publications 
-- Software
-- [Tutorials](https://github.com/search?q=topic%3Atutorial+org%3ALiving-with-machines+fork%3Atrue) 
-- [Workshop materials](https://github.com/search?q=topic%3Aworkshop+org%3ALiving-with-machines+fork%3Atrue)
-- [Data related code](https://github.com/search?q=topic%3Adataset+org%3ALiving-with-machines&type=Repositories) 
-- Code supporting blog posts 
+### Code supporting publications 
+
+### Software
+
+### [Tutorials](https://github.com/search?q=topic%3Atutorial+org%3ALiving-with-machines+fork%3Atrue) 
+
+### [Workshop materials](https://github.com/search?q=topic%3Aworkshop+org%3ALiving-with-machines+fork%3Atrue)
+
+#### Jupyter Notebooks the Weird and Wonderful](https://github.com/Living-with-machines/Jupyter-Notebooks-The-Weird-and-Wonderful)
+> Materials for a British Library, Digital Scholarship "hack and yack" workshop on things you can do with Jupyter Notebooks
+
+### [Data related code](https://github.com/search?q=topic%3Adataset+org%3ALiving-with-machines&type=Repositories) 
+
+#### [hmd_download](https://github.com/Living-with-machines/hmd_newspaper_dl)
+> Bulk download Heritage Made Digital digitised newspapers from the British Library Research Repository
+
+### Code supporting blog posts 
