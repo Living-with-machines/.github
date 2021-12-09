@@ -4,7 +4,6 @@
 This is the GitHub organisation for the [Living with Machines](https://livingwithmachines.ac.uk/). Here you will find code supporting research publications, software, code for working with datasets, workshops and tutorials.
 
 ## Overview of our GitHub repositories 
-Below is an overview of some of the material we have in GitHub organised around particular themes. 
 
 - **Code supporting publications** 
 - **software** 
