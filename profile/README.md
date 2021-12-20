@@ -5,8 +5,7 @@ This is the GitHub organisation for the [Living with Machines](https://livingwit
 
 ## Overview of our GitHub repositories 
 
-- **Code supporting publications** 
-- **software** 
+- [**Code supporting publications**](https://github.com/search?q=topic%3Aarticle+org%3ALiving-with-machines+fork%3Atrue) 
 - [**Tutorials**](https://github.com/search?q=topic%3Atutorial+org%3ALiving-with-machines+fork%3Atrue) 
 - [**Workshop materials**](https://github.com/search?q=topic%3Aworkshop+org%3ALiving-with-machines+fork%3Atrue)
 - [**Data related code**](https://github.com/search?q=topic%3Adataset+org%3ALiving-with-machines&type=Repositories) 
