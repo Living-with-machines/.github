@@ -1,5 +1,5 @@
 
-![Living with Machines logo](../lwm_logo_cropped.png)
+![Living with Machines logo](https://raw.githubusercontent.com/Living-with-machines/.github/main/lwm_logo_cropped.png)
 
 This is the GitHub organisation for the [Living with Machines](https://livingwithmachines.ac.uk/). Here you will find code supporting research publications, software, code for working with datasets, workshops and tutorials.
 
