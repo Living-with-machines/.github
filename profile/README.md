@@ -1,7 +1,7 @@
 
 ![Living with Machines logo](https://raw.githubusercontent.com/Living-with-machines/.github/main/lwm_logo_cropped.png)
 
-This is the GitHub organisation for the [Living with Machines](https://livingwithmachines.ac.uk/) project. Here you will find code supporting research publications, software, code for working with datasets, workshops and tutorials.
+This is the GitHub organisation for the [Living with Machines](https://livingwithmachines.ac.uk/) project. Here you will find code supporting research publications, software, code for working with datasets, workshops and tutorials. Further context for much of this can be found on our project [Achievements](https://livingwithmachines.ac.uk/achievements/) page and in [blog posts](https://livingwithmachines.ac.uk/latest/).
 
 ## Overview of our GitHub repositories 
 
